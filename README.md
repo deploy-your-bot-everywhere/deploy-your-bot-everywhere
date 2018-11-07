@@ -10,3 +10,7 @@ _Засыпает после 30 минут бездействия_
 - **Deploying on Heroku via [GitHub](https://github.com/deploy-your-bot-everywhere/heroku#%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-github)**
 
 - **Deploying on Heroku via [Docker](https://github.com/deploy-your-bot-everywhere/heroku-docker)**
+
+## Now.sh
+
+- **Deploying via [Now-cli](https://github.com/deploy-your-bot-everywhere/now-docker)**
